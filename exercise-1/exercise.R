@@ -21,6 +21,6 @@ len <- length(z)
 ### Bonus ###
 
 # Create a vector `odd` that holds the odd numbers from 1 to 100
-
+odd <- c(1:50)*2 - 1
 
 # Using the `all` function, confirm that all of the numbers in your `odd` vector are odd
